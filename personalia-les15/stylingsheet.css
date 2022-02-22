@@ -1,0 +1,61 @@
+header{ width: 100%px;
+   height: 90px;
+   background-color: #c1fbb2;}
+
+li{ display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #76eaf8;
+    margin: 15px;
+    width: 80px;
+    height: 30px;
+    padding: 10px;}
+a{ text-decoration: none;}
+
+li:hover{ background-color: #e4f868;
+          border-style: dotted;
+          border-color: #d40f38;}
+
+footer{ background-color: #c1fbb2;
+        width: 100%px;
+        height: 45px;}
+footer{ font-weight: bold;
+        text-align: center;
+        padding: 1px;}
+
+img{ width: 50%;
+    height: 450px;
+    margin-left: 25%;}
+
+body{ background-color: #e9e7bd;}
+section{background-color: #9fba63;}
+article{ background-color: #d5f787;}
+aside{ background-color: #a9d93b;}
+
+h1, h2, h3, h4, p{ text-align: center;}
+
+ul{margin-left: 43%;}
+
+ul, .alfa{ padding: 5px;}
+
+th, td{ border: 1px solid;
+      padding: 5px 10px;
+      width: 200px;}
+th{ background-color: #c2c3c0; text-align: center;}
+td{ background-color: #fdfdbe;}
+table{ margin-left: 26%;}
+
+input[type="text"], input[type="email"], textarea, button{ display: block;
+   margin: 10px;
+    margin-left: 45%;
+    width: 200px;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px #76eaf8;
+    border-radius: 5px;
+    padding: 7px;}
+textarea{ height: 100px;}
+
+button{background-color: #e4f868;}
+button:active{ background-color: #a2b8ea;
+                border-style: dotted;
+                border-color: #de4fb0}
